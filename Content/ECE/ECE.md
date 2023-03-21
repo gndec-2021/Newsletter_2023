@@ -48,8 +48,7 @@ Forum (ISF), GNDEC</div>**
 
 
 ## Faculty Achievements  
-
-- Dr. Baljeet Kaur, Best paper Award for **Performance Analysis and Power Allocation with Joint Sharing in Hybrid Multicarrier based Cognitive Radio Network**, International conference, PSIT Kanpur, 16-17 December,2021.
+- **Preeti Pannu** recognised as mentor for the NPTEL online certification course(july 2022- Dec 2022).
 
 - **Harminder Kaur** completed ""Virtual Discussion on National Web Series"" an online course authorized by NEP 2020 on 11 August,2021
 
