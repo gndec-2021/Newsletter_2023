@@ -94,14 +94,14 @@ Department of Civil Engineering, GNDEC alongwith NIT, Jalandhar hosted 5th UKIER
 
 A group of 6 students went to CSIR-IIT Roorkee for their 6 months Industrial Training. The details are as given below:
 
-| Sr. No. | Name of Student | Name of Project |
-| -- | -- | -- |
-| 1|Sharanjit Singh | Evaluating 28 - Days Performance Of Rice Husk Ash Green Concrete Under Compression Gleaned From Neural Networks|
-| 2|Sidhant Jindal|Retrofitting Of Precode-Built Reinforced Concrete Sructues As Per Present Codes Of Practice Using Sap2000  |
-| 3| Yogesh Kumar|Neural Network Based Algorithm To Estimate The Axial Capacity Of Corroded Rc Columns  |
-| 4| Mool Chand|Evaluation Of Seismic Performanc Of Rcc Corroded Framed Structure And It’s Retrofitting Using Sap2000 |
-| 5|Rohan Singh |Enhancing Sustainability Of Corroded Rc Structures: Estimating Steel-To-Concrete Bond Strength With Ann And Svm Algorithms |
-| 6|Sarvanshdeeo Singh Sahota |Ml-Based Computational Model To Estimate The Compressive Strength Of Sustainable Concrete Intergrating Silica Fume And Steel Fiber |
+**| Sr. No. | Name of Student | Name of Project | Publisher |**
+| -- | -- | -- | -- |
+| 1|Sharanjit Singh | Evaluating 28-Days Performance of Rice Husk Ash Green Concrete under Compression Gleaned from Neural Networks | [Hindawi] (https://doi.org/10.1155/2023/1177458) |
+| 2|Sidhant Jindal | Seismic Evaluation and Retrofitting of Rc Corroded Structures Using Sap2000 Software in Accordance With Different INDIANGUIDELINES | [ELSEVIER] (https://dx.doi.org/10.2139/ssrn.4556976)
+| 3|Yogesh Kumar | Neural Network Based Algorithm to Estimate the Axial Capacity of Corroded RC Columns | [SPRINGER] (https://link.springer.com/chapter/10.1007/978-3-031-31153-6_19) |
+| 4|Mool Chand | Evaluation Of Seismic Performance Of RCC Corroded Framed Structure And It’s Retrofitting Using Sap2000 | [ELSEVIER] (https://dx.doi.org/10.2139/ssrn.4556976) |
+| 5|Rohan Singh | Enhancing Sustainability of Corroded RC Structures: Estimating Steel-to-Concrete Bond Strength with ANN and SVM Algorithms | [MDPI] (https://doi.org/10.3390/ma15238295)
+| 6|Sarvanshdeeo Singh Sahota | ML-Based Computational Model to Estimate the Compressive Strength of Sustainable Concrete Integrating Silica Fume and Steel Fibers | [SPRINGER] (https://link.springer.com/chapter/10.1007/978-3-031-31153-6_20) |
 
 
 ![Conf](Images/CSIR.jpg)
